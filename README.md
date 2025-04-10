@@ -119,3 +119,5 @@ kill -9 <pid>
 mosquitto
 mosquitto_sub -h test.mosquitto.org -t "#" -v
 ```
+
+![](https://ga-beacon.deno.dev/G-4NEP5LC20N:1fbE9YTHTw2pzxI6HO33Mw/github.com/pantryf/energy_meter.esp32)
